@@ -39,44 +39,32 @@ The game will perform for two mode. Simple mode and Advanced mode.In tutorial, t
 * Something with physics
 
 ## MVP Milestones
-### Week 1 (7/13 - 7/20/2015)
+### Week 1 (7/13 - 7/19/2015)
 * implement basic physics world
   * add ball with physics
-  * ball Collision
+  * ball collision
 * implement single player game scene
 * Designing basic level of Map
 
-### Week 2 (7/20 - 7/27/2015)
-* implement point calculate system
+### Week 2 (7/20 - 7/26/2015)
+* implement point calculating system
   * add detect if a ball pass the point circle
   * calculate point of player
 * implement single player game scene
 * Continuously designing basic level of Map
 
-### Week 3 (7/26 - 7//2015)
-* implement point calculate system
-  * add detect if a ball pass the point circle
-  * calculate point of player
-* implement single player game scene
+### Week 3 (7/27 - 8/2/2015) - finish core game play
+* implement some basic items
+* implement the animation of collision
+* Polishing UI
 * Continuously designing basic level of Map
 
-### Week 2 (7/18 - 7/25/2015)
-* implement point calculate system
-  * add detect if a ball pass the point circle
-  * calculate point of player
-* implement single player game scene
-* Continuously designing basic level of Map
+### Week 4 (8/3 - 8/9/2015)
+* implement Tutorial
+* implement the all level of single player
+* Testing
 
-### Week 2 (7/18 - 7/25/2015)
-* implement point calculate system
-  * add detect if a ball pass the point circle
-  * calculate point of player
-* implement single player game scene
-* Continuously designing basic level of Map
-
-### Week 2 (7/18 - 7/25/2015)
-* implement point calculate system
-  * add detect if a ball pass the point circle
-  * calculate point of player
-* implement single player game scene
-* Continuously designing basic level of Map
+### Week 5 (8/10 - 8/14/2015)
+* Testing
+* shipping the app to appstore
+* 
