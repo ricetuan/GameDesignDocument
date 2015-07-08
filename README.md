@@ -39,16 +39,44 @@ The game will perform for two mode. Simple mode and Advanced mode.In tutorial, t
 * Something with physics
 
 ## MVP Milestones
-### Week 1 (7/13 - 7/17/2015)
+### Week 1 (7/13 - 7/20/2015)
 * implement basic physics world
   * add ball with physics
   * ball Collision
 * implement single player game scene
 * Designing basic level of Map
 
+### Week 2 (7/20 - 7/27/2015)
+* implement point calculate system
+  * add detect if a ball pass the point circle
+  * calculate point of player
+* implement single player game scene
+* Continuously designing basic level of Map
+
+### Week 3 (7/26 - 7//2015)
+* implement point calculate system
+  * add detect if a ball pass the point circle
+  * calculate point of player
+* implement single player game scene
+* Continuously designing basic level of Map
+
 ### Week 2 (7/18 - 7/25/2015)
 * implement point calculate system
   * add detect if a ball pass the point circle
   * calculate point of player
 * implement single player game scene
-* Continus designing basic level of Map
+* Continuously designing basic level of Map
+
+### Week 2 (7/18 - 7/25/2015)
+* implement point calculate system
+  * add detect if a ball pass the point circle
+  * calculate point of player
+* implement single player game scene
+* Continuously designing basic level of Map
+
+### Week 2 (7/18 - 7/25/2015)
+* implement point calculate system
+  * add detect if a ball pass the point circle
+  * calculate point of player
+* implement single player game scene
+* Continuously designing basic level of Map
