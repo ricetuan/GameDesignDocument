@@ -11,21 +11,25 @@
 - Learned
 - Lacked
 - Longed for
+
 ###Tue
 - Liked
 - Learned
 - Lacked
 - Longed for
+
 ###Wed
 - Liked
 - Learned
 - Lacked
 - Longed for
+
 ###Thu
 - Liked
 - Learned
 - Lacked
 - Longed for
+
 ###Fri
 - Liked
 - Learned
