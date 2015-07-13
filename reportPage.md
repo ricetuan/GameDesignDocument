@@ -7,10 +7,16 @@
 
 ##Daily Report
 ###Mon
-- Liked
-- Learned
+- Liked 
+  - cocos2dx physics system
+- Learned 
+  - the way to design level and surface
+  - physics engine and collusion detection
 - Lacked
+  - knowledge of physics engine and useful tools.
+  - design patterns
 - Longed for
+  - knowledge of physics engine and useful tools.
 
 ###Tue
 - Liked
