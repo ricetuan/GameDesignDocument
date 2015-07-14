@@ -1,21 +1,21 @@
 #game design category
 
 ##category
- 4 basic category: surface,points,block,ball 
+ 5 basic category: surface,points,block,ball,item
 ###ball
 user controll a ball try to get more points
 - when ball pass surface speed changed
 - when ball pass the points user get points
 - when ball hit the block some collusion happend
 - ball is dynamic(movable)
-- ball can detect collusion of surface,points,block,ball
+- ball can detect collusion of surface,points,block,ball,item
 - ball can collise block,ball
  
 ###block
 physics items in the map
 - block is dynamic(movable)
-- block can detect block,ball
-- block can colliose block,ball
+- block can detect block,ball,item
+- block can colliose block,ball,item
 
 
 ##Scene(MVP)
