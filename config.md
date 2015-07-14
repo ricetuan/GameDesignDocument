@@ -16,3 +16,18 @@ physics items in the map
 - block is dynamic(movable)
 - block can detect block,ball
 - block can colliose block,ball
+
+
+##Scene(MVP)
+###lobby
+
+###preparing
+allow user to set items or set the power and angle of ball
+
+###gameScene
+simulate the collusion
+
+##Future feature
+##shop( by items)
+
+##different kinds of map
