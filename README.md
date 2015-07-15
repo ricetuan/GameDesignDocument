@@ -43,8 +43,9 @@ The game will perform for two mode. Simple mode and Advanced mode.In tutorial, t
 * implement basic physics world
   * add ball with physics
   * ball collision
-* implement single player game scene
-* Designing basic level of Map
+* [ ]implement single player game scene
+* [ ]Designing basic level of Map
+* [ ]Update the GDD
 
 ### Week 2 (7/20 - 7/26/2015)
 * implement point calculating system
