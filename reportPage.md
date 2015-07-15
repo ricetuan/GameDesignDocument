@@ -19,10 +19,10 @@
   - knowledge of physics engine and useful tools.
 
 ###Tue
-- Liked
-- Learned
-- Lacked
-- Longed for
+- Liked: class design && physics bitmap mask
+- Learned: cocos2d physics & sketch3 basic use
+- Lacked: Design pattern
+- Longed for : how to make game fun and simple
 
 ###Wed
 - Liked
