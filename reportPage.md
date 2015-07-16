@@ -25,10 +25,10 @@
 - Longed for : how to make game fun and simple
 
 ###Wed
-- Liked
-- Learned
-- Lacked
-- Longed for
+- Liked: GDD document and pm group for work together
+- Learned: Schedule control and cocos2d physics
+- Lacked: ideas of art set
+- Longed for: any good idea of art set of bouncing ball
 
 ###Thu
 - Liked
