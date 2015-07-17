@@ -31,15 +31,21 @@
 - Longed for: any good idea of art set of bouncing ball
 
 ###Thu
-- Liked
-- Learned
-- Lacked
-- Longed for
+- Liked - new Game set and BBQ party
+- Learned - the hardness of make art set(too hard for engineer to make)
+- Lacked - Some basic knowledge of Art
+- Longed for - Basic knowledge of Art set making
 
 ###Fri
-- Liked
-- Learned
-- Lacked
-- Longed for
+- Liked - discussion of game logic design 
+- Learned - physics word setting for multi device
+- Lacked - Skill of Art set making 
+- Longed for - renew Game logic 
 
 ##Weekly Review
+First 3 days learns some basic of physics and flow control. And Design games.
+###Keep:
+revising the assets also takes me so much times. I think the objective of this training program is not for polishing the asset (although it is important and essencial for making games). So I bought an asset and change the game logic using the current asset. I believe it is a good decision to make least time to deal with art But take more time for game logic.
+###Problem & TRY:
+It take times to change the code because of the change of usage. The problem is that even iterative development needs a specific goal.  I will try to avoid this problem by make the design and game control fixed before starting write code. 
+Also try to seperate the task into subtask and use git to keep track of coding.
