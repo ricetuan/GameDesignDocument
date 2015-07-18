@@ -43,7 +43,7 @@
 - Longed for - renew Game logic 
 
 ##Weekly Review
-First 3 days learns some basic of physics and flow control. And Design games.
+First 2 days learns some basic of physics and flow control . Next 2 days I try to  revise the asset and and improve the program architecture . Last day I decide to change the game logic Since I'd like to make full use of art set.
 ###Keep:
 revising the assets also takes me so much times. I think the objective of this training program is not for polishing the asset (although it is important and essencial for making games). So I bought an asset and change the game logic using the current asset. I believe it is a good decision to make least time to deal with art But take more time for game logic.
 ###Problem & TRY:
