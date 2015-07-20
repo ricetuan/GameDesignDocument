@@ -2,7 +2,7 @@
 
 ##category
  5 basic category: surface,points,block,ball,item
-###ball
+###ball(MVP)
 user controll a ball try to get more points
 - when ball pass surface speed changed
 - when ball pass the points user get points
@@ -17,15 +17,16 @@ physics items in the map
 - block can detect block,ball,item
 - block can colliose block,ball,item
 
+###Point(MVP)
+
+###surface
 
 ##Scene(MVP)
 ###lobby
 
-###preparing
-allow user to set items or set the power and angle of ball
-
-###gameScene
+###gameScene(MVP)
 simulate the collusion
+
 
 ##Future feature
 ##shop( by items)
