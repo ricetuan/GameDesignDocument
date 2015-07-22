@@ -25,10 +25,8 @@ The game will perform for two mode. Simple mode and Advanced mode.In tutorial, t
    * mainScene(Node)
      * cannnon
      * background
-   * UIScene
      * Back button
      * Score Label
-   * Physics Scene
      * Ball 
      * Block
 
