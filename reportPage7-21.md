@@ -27,6 +27,17 @@
 - Longed for -  some animation effect to make game more enjoyable
 
 ###Wed
+Planning:    
+2 week: finish the MVP(not include the multiPlayer :  
+ Try to create a simple multiPlayer Mode  
+ start :Tur afternoon or Fir morning  
+3 week: finish all the game logic(maybe some (30 ~50?)  
+    add some blocks(Walls or items) -> new feature  
+    Finish multiPlay mode  
+4 week: finish (one or two)  
+   adjust Ui,animation  
+5 :week shipment, polishing  
+
 - Liked 
 - Learned 
 - Lacked
