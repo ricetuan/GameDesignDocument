@@ -19,6 +19,19 @@ The game will perform for two mode. Simple mode and Advanced mode.In tutorial, t
 * GameScene
 * Item Box (Player choose item when their play)
 
+### Scene Design
+* Scene with Physics(Scene)
+ * Game Scene(Node)
+   * mainScene(Node)
+     * cannnon
+     * background
+   * UIScene
+     * Back button
+     * Score Label
+   * Physics Scene
+     * Ball 
+     * Block
+
 ### Controls/Input
  * Move left and right to change the angle of cannon
  * touch the screen to shoot the ball
