@@ -15,16 +15,16 @@
 
 ##Daily Report
 ###Mon
-- Liked 
-- Learned 
-- Lacked
-- Longed for
+- Liked - cocos2d multi device solution
+- Learned - cocos multi device solution
+- Lacked - Ideas of game logic design
+- Longed for - some animation effect to make game more enjoyable
 
 ###Tue
-- Liked 
-- Learned 
-- Lacked
-- Longed for
+- Liked - out side Event bouced ball
+- Learned - bacis Game Layer design and some definition of cocos2d
+- Lacked - Ideas of polishing game
+- Longed for -  some animation effect to make game more enjoyable
 
 ###Wed
 - Liked 
