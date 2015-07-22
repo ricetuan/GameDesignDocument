@@ -57,16 +57,16 @@ The game will perform for two mode. Simple mode and Advanced mode.In tutorial, t
 * Designing basic level of Map
 
 ### Week 2 (7/20 - 7/26/2015)
-* Read Level Setting from Json and set map depend on data
+* Read Level Setting from Json and set map depend on data[done]
   * Design the data flow and structue of state
   * make JSON Packer: which read from json setting to decide stage setting
   * Make the Ball bag to Hold balls and create ball
 * Make a point calculate system
   * MVP just make some score on the board
-* change the asset to make the resolution of physics words of multi device worked
+* change the asset to make the resolution of physics words of multi device worked[done]
   * Physics world should be the same for different device
-* think about 2 ways to paly games
-* config ball setting (speed mask and so on) item setting, let it be more structure
+* think about 2 ways to paly games[done]
+* config ball setting (speed mask and so on) item setting, let it be more structure[doing]
 * Design some 2 items that make the game interesting
   * implement items box
   * add touch event and stage control
