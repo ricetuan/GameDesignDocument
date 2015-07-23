@@ -38,8 +38,8 @@ Planning:
    adjust Ui,animation  
 5 :week shipment, polishing  
 
-- Liked 
-- Learned 
-- Lacked
-- Longed for
+- Liked - the Scheduling of the Games
+- Learned - there is something hard in multiPlay so that try to start it earlyer
+- Lacked - Knowledege of level design
+- Longed for - Art skill
 
