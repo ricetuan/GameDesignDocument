@@ -43,3 +43,17 @@ Planning:
 - Lacked - Knowledege of level design
 - Longed for - Art skill
 
+###Tur
+- Liked - Level Setting for Games
+- Learned - some mechanics of button press listener
+- Lacked -  skill of debug
+- Longed for - skill of debug
+
+###Fri
+- Liked - Map design of Games
+- Learned - UserData store and multiPlay basic setting
+- Lacked - idea of multiPlay
+- Longed for - skill of debug
+
+
+##Weekly Report
