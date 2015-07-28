@@ -57,3 +57,15 @@ Planning:
 
 
 ##Weekly Report
+###Keep
+ - Keep thinking not only the game design but also the way to contorl the schedule and the way to solve problem
+ - Keep using half of times to coding but not fixing asset
+
+###Try
+ - Try to think about the strength of other member in team and figure out my own advantage.
+ - Try to find some valuable idea or points which is not technical
+ - Try to summary the way of brainstorming the game and the way I solve problem
+
+###Problem
+ - refactoring and redesign code structure takes times
+ - balance the time of designing/art/coding/refactoring/
