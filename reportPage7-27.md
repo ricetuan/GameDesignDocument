@@ -1,4 +1,4 @@
-##Plan for 7/21 week
+##Plan for 7/27 week
  - Implement items to make game more fun
    - Item Box
    - Bomb Item
