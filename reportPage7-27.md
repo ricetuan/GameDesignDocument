@@ -41,3 +41,21 @@
   - Who get the target send game over to another
 - rule: try to get the Target coin( e.g 40)
   - coin will keep invisible until you own turn
+
+- Liked - Game State Design
+- Learned - Multiplay communication pattern
+- Lacked - Level Design knowledge
+- Longed for - Good way for Project management
+
+###wed
+- Liked - PM group MTG
+- Learned - forcast task correctly 
+- Lacked - Time to make tutorial
+- Longed for - refactoring
+
+
+###Tur
+ - Like : MultiPlay designing of Games
+ - Learn : Design of tutorial and polishing
+ - Lacked : Time
+ - Longed for : desgin of
