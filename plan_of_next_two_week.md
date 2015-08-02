@@ -64,6 +64,7 @@
     - make level clear scene more enjoyable
     - make a cusino of item get
     - make a bigger and enjoyable collecting coin animation 
+    - make a failed level up (maybe high)
   - Bug Fixs:(2d~) high
     - Bomb collusion contact
     - MultiPlayer Game over not sync(2h)
