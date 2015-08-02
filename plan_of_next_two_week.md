@@ -71,6 +71,7 @@
     - more items(fog - make all ball invisible)
     - more level
     - more map of multi play mode
+    - control the power of games
 
 ##Addition work
   - thinking style of American People
