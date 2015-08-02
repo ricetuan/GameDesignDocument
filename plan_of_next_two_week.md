@@ -26,7 +26,7 @@
     - e.g. basic polishing 
   - low : which is optional to do because of week relative to the Goal
     - e.g. advance polishing 
-    - e.g.
+
 ###Todo list
   - Items Move arrow:(3h) high
     - Art of Move arrow
