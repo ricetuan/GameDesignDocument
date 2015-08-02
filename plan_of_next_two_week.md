@@ -66,6 +66,7 @@
     - make a bigger and enjoyable collecting coin animation 
   - Bug Fixs:(2d~) high
     - Bomb collusion contact
+    - MultiPlayer Game over not sync(2h)
     - data Sync of Ball Coin and items for multi player(4h)
   - Optional Feature(low)
     - more items(fog - make all ball invisible)
