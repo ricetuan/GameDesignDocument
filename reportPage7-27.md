@@ -59,3 +59,22 @@
  - Learn : Design of tutorial and polishing
  - Lacked : Time
  - Longed for : desgin of
+
+###Fri
+ - like - Play testing
+ - Lean - some ways to make game enjoyful
+ - lacked - idea of polishing
+ - Long for - skill of refactoring
+
+##Weekly review
+this week almost make multiplay mode and implement some feature of games. Try to finish all game feature in next week. Basic skill of cocos2d is covered in previews two week. I'd like to focus on PDCA of developing process but not only coding.( how to correctly forcast the schedule, how to solve the problem I met last two week.)  
+Two big problem are occured in last two weeks development. Firstly, changing the way of implement without thinking deeply. Usually those implementations are not really appropriate. Sencondly, do not have Todo list with priority so that I don't have a wholely image of the total development.
+
+###Keep
+- refactoring code to learn more about c++
+
+###Try
+- make a detail plan of Todo list(maybe using the google spread sheet)
+
+###Problem
+- lack the controlness of my own product.
