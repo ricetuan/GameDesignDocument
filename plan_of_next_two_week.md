@@ -32,7 +32,7 @@
     - Art of Move arrow
     - implement of Moving arrow in single mode(New game state and items)
     - implement of Moving arrow in multiplay mode(data sync)
-   - result: 1 hour to try to figure out art set. It totally waste of time to do such of thinks. Just make some a simple items to do since my job is not creating art asset.
+   - result: 1 hour to try to figure out art set. It totally waste of time to do such of thinks. Just make some a simple items to do since my job is not creating art asset. 3 hours to implement the touch event. different from other items, transport has a total different ways to use. Custom class and Game logic method is needed for transport.
   - Items power up:(2h) high
     - Art of Power up
     - implement of Power up in single mode(New game state and items)
