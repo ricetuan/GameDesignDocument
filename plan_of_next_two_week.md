@@ -36,6 +36,7 @@
     - Art of Power up
     - implement of Power up in single mode(New game state and items)
     - implement of Power up in multiplay mode(data sync)
+  - result: finished in 1h20min. Witout polishing the effect, framework make it quite simple for implementation but multiplay test takes times.
   - Refactoring:(4h)
     - GameScene.cpp : make it more readable and structed (high)
     - getter and setter Method: const correct and const & to make it more efficient (low)
