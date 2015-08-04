@@ -39,7 +39,7 @@
     - implement of Power up in multiplay mode(data sync)
   - result: finished in 1h20min. Witout polishing the effect, framework make it quite simple for implementation but multiplay test takes times.
   - Refactoring:(4h) 
-    - GameScene.cpp : make it more readable and structed (high)
+    - GameScene.cpp : make it more readable and structed (high) [done]
     - getter and setter Method: const correct and const & to make it more efficient (low)
   - Title Scene(3h) high
     - two button:single and multi
@@ -77,7 +77,8 @@
     - more level
     - more map of multi play mode
     - control the power of cannnon
-
+  - random feature
+    - make items randomly
 ##Addition work
   - thinking style of American People
   - experience in silicon valley
