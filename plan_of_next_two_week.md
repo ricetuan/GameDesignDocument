@@ -41,7 +41,10 @@
   - Refactoring:(4h) 
     - GameScene.cpp : make it more readable and structed (high) [done]
     - getter and setter Method: const correct and const & to make it more efficient (low)
-  - Title Scene(3h) high
+  - Make Items random (new) 
+    - make a random animation
+    - 
+  - Title Scene(3h) high [wip]
     - two button:single and multi
     - Backgrond and logo charactor art work
     - Name of Games
@@ -57,7 +60,7 @@
     - easy stage about 10
     - middle stage about 10
     - hard stage about 10 (need bouncing and using items to clear)
-  - Tutorial of Items Use(0.5d) high
+  - Tutorial of Items Use(0.5d) high [wip]
     - Another tutorial over 10 stage to let user know how to use items
   - polish(2d~) middle
     - make info how many Ball left
@@ -70,8 +73,8 @@
     - make a thunder effect
   - Bug Fixs:(2d~) high
     - Bomb collusion contact
-    - MultiPlayer Game over not sync(2h)
-    - data Sync of Ball Coin and items for multi player(4h)
+    - MultiPlayer Game over not sync(2h) [wip]
+    - data Sync of Ball Coin and items for multi player(4h) [done]
   - Optional Feature(low)
     - more items(fog - make all ball invisible)
     - more level
