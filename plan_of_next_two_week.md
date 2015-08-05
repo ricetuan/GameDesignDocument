@@ -41,9 +41,9 @@
   - Refactoring:(4h) 
     - GameScene.cpp : make it more readable and structed (high) [done]
     - getter and setter Method: const correct and const & to make it more efficient (low)
-  - Make Items random (new) 
+  - Make Items random (new) [done]
     - make a random animation
-    - 
+  - result: finished in 2 hours by creating cocostudio method and call back design.
   - Title Scene(3h) high [wip]
     - two button:single and multi
     - Backgrond and logo charactor art work
@@ -70,7 +70,7 @@
     - make a cusino of item get
     - make a bigger and enjoyable collecting coin animation 
     - make a failed level up (maybe high)
-    - make a thunder effect
+    - make a thunder effect (using paticle) MUST high
   - Bug Fixs:(2d~) high
     - Bomb collusion contact
     - MultiPlayer Game over not sync(2h) [wip]
