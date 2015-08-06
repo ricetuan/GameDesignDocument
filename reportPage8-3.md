@@ -11,3 +11,9 @@ Plan : https://github.com/ricetuan/GameDesignDocument/blob/master/plan_of_next_t
 - learn : How start ups works
 - lack : time to polish and art skill
 - Long for : knowledging of shipping
+
+#Wed
+- like : polishing game by reorder the layout
+- learn : Ways to make tutorial by tap
+- lack : times to find a good sound effect for my game
+- Long for : how to ship the app
