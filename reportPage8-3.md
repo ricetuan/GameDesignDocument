@@ -12,8 +12,14 @@ Plan : https://github.com/ricetuan/GameDesignDocument/blob/master/plan_of_next_t
 - lack : time to polish and art skill
 - Long for : knowledging of shipping
 
-#Wed
+###Wed
 - like : polishing game by reorder the layout
 - learn : Ways to make tutorial by tap
 - lack : times to find a good sound effect for my game
 - Long for : how to ship the app
+
+###
+- like : stage design for the game
+- learn : new editor which is super cool
+- lack : good sound effect
+- Long for: fix all bugs
