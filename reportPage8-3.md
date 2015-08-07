@@ -18,8 +18,7 @@ Plan : https://github.com/ricetuan/GameDesignDocument/blob/master/plan_of_next_t
 - lack : times to find a good sound effect for my game
 - Long for : how to ship the app
 
-###Thu
-Todo list
+###Todo list
 - change option to thanks for
 - multi play basic polish(show turn info,turning the stage)
 - multiplay game over 
@@ -29,6 +28,8 @@ Todo list
 - change debug code to shipment code 
 - reset all user data.
 
+
+###Thu
 - like : stage design for the game
 - learn : new editor which is super cool
 - lack : good sound effect
