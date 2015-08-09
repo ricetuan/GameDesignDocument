@@ -43,12 +43,13 @@
     - getter and setter Method: const correct and const & to make it more efficient (low)
   - Make Items random (new) [done]
     - make a random animation
-  - result: finished in 2 hours by creating cocostudio method and call back design.
-  - Title Scene(3h) high [wip]
+  - result: finished in 2 hours by creating cocostudio method and call back design. And debugs of random items alsot takes about 2 hours.
+  - Title Scene(3h) high [done]
     - two button:single and multi
     - Backgrond and logo charactor art work
     - Name of Games
-  - Sound(1.5d) high
+  result: finished in 2 hous. by just using basic art asset and prebuild font
+  - Sound(1.5d) high [Last week】
     - find the asset of Games(0.4~0.7d)
       - backGound BGM
       - shooting effect
@@ -56,24 +57,26 @@
       - collusion Effect
       - level Clear
     - implement of sound effect code (reffer to the books) (0.5d ~ 1d)
-  - Stage design(1d) high
+  - Stage design(1d) high [done]
     - easy stage about 10
     - middle stage about 10
     - hard stage about 10 (need bouncing and using items to clear)
-  - Tutorial of Items Use(0.5d) high [wip]
+  - result: in order to ship by the end of the week. Using "A,B,C,D" character to design the stage. GUI config is mush better in level design compare to using json config/
+  - Tutorial of Items Use(0.5d) high 
     - Another tutorial over 10 stage to let user know how to use items
+  - result : make a additional layer and item fixed. not so much difference from frocast.
   - polish(2d~) middle
-    - make info how many Ball left
-    - make tutorial touch to move next
+    - make info how many Ball left [done]
+    - make tutorial touch to move next [done]
     - make charactor animation more enjoyable(low)
     - make level clear scene more enjoyable
-    - make a cusino of item get
+    - make a cusino of item get [done]
     - make a bigger and enjoyable collecting coin animation 
-    - make a failed level up (maybe high)
-    - make a thunder effect (using paticle) MUST high
+    - make a failed level up (maybe high) [done]
+    - make a thunder effect (using paticle) MUST high [Next week]
   - Bug Fixs:(2d~) high
-    - Bomb collusion contact
-    - MultiPlayer Game over not sync(2h) [wip]
+    - Bomb collusion contact [done]
+    - MultiPlayer Game over not sync(2h) [done]
     - data Sync of Ball Coin and items for multi player(4h) [done]
   - Optional Feature(low)
     - more items(fog - make all ball invisible)
