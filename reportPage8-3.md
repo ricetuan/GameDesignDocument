@@ -48,4 +48,19 @@ Plan : https://github.com/ricetuan/GameDesignDocument/blob/master/plan_of_next_t
 
 
 ##Weekly Report
-Finish shipping the Game in Friday!!!Maybe every one worked hard in this week which just affected me a lot. Anyway, it is a great improvement for me since i have never work every day till midnight.focusing on one goal and make best effort is realy fun and enjoyable. However, for organization may be it is not a good choice. Every task should be ordered or try to ordered in a best way. crunch mode is not good for a company
+Finish shipping the Game in Friday!!!Maybe every one worked hard in this week which just affected me a lot. Anyway, it is a great improvement for me since i have never work every day till midnight.focusing on one goal and make best effort is realy fun and enjoyable. However, for organization may be it is not a good choice. Every task should be ordered or try to ordered in a best way. crunch mode is not good for a company.
+
+###keep
+ - List up all tasks, mark the priority of each task. 
+ - Work hard and effecient.
+ - Make a time limit of one task. If it takes more time than predict. Try to figure out what the problems is and solve it. It's not important to solve problem it self but the way to solve it
+
+###Try
+ - Thinking more about America and game design.
+ - Try to talk with ban and Jermy once.
+ - polish one feature of game and summary the way of polishment by looking the Zoo.
+ - using the different ways to evalute things and people.
+
+###Problem
+ - self control. when I was effected by others, it takes times to get out.
+ - self control. (it is so important, So write it twice)
