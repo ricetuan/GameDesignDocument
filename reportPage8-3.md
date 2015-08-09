@@ -28,9 +28,24 @@ Plan : https://github.com/ricetuan/GameDesignDocument/blob/master/plan_of_next_t
 - change debug code to shipment code 
 - reset all user data.
 
+###Thu
+- like : stage design for the game
+- learn : new editor which is super cool
+- lack : good sound effect
+- Long for: fix all bugs
 
 ###Thu
 - like : stage design for the game
 - learn : new editor which is super cool
 - lack : good sound effect
 - Long for: fix all bugs
+
+###Fri
+- like : new tuturial of Game
+- learn : ways to ship
+- Lack : Sound Effect resouce
+- Long for : more knowledge of cocos2dx
+
+
+##Weekly Report
+Finish shipping the Game in Friday!!!Maybe every one worked hard in this week which just affected me a lot. Anyway, it is a great improvement for me since i have never work every day till midnight.focusing on one goal and make best effort is realy fun and enjoyable. However, for organization may be it is not a good choice. Every task should be ordered or try to ordered in a best way. crunch mode is not good for a company
