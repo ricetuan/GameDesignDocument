@@ -4,6 +4,8 @@
 - Detail Polishment
 - review of coding style and structure
 - summarize others effect of games
+- analysis part
+- open interface(Game center of facebook)
 
 ###Mon
 - like : polish idea of games
