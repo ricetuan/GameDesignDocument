@@ -6,7 +6,13 @@
 - summarize others effect of games
 
 ###Mon
-- like
-- learn
+- like : polish idea of games
+- Learn : Particle system of cocos2d
+- Lack : pitch skill of Games
+- Long For : Review and summary of this make schools
+
+###Tue
+- Like : Marketing Lectrue and logo designing lecture
+- Learn
 - Lack
-- Long For
+- Long For:
