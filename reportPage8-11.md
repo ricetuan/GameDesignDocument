@@ -1,10 +1,11 @@
 ##Plan for 8/10
-- Sound Effect
+- Sound Effect[done]
 - Paticle Effect [done]
 - Detail Polishment
 - review of coding style and structure
 - summarize others effect of games
-- analysis part
+- analysis part【wip]
+- push implement
 - open interface(Game center of facebook)
 
 ###Mon
@@ -15,6 +16,6 @@
 
 ###Tue
 - Like : Marketing Lectrue and logo designing lecture
-- Learn
-- Lack
-- Long For:
+- Learn : production design
+- Lack : ideas of last 3 days.
+- Long For: pitch skills
