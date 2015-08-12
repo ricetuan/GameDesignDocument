@@ -4,7 +4,7 @@
 - Detail Polishment
 - review of coding style and structure
 - summarize others effect of games
-- analysis part【wip]
+- analysis part[wip]
 - push implement
 - open interface(Game center of facebook)
 
